@@ -1,0 +1,7 @@
+interface:
+  display_name: "Excalidraw 白板脚本"
+  short_description: "把口播稿转成大字白板分镜文件"
+  brand_color: "#D92D20"
+  default_prompt: "Use $excalidraw-whiteboard-script to turn this Chinese口播稿 into an importable Excalidraw whiteboard storyboard."
+policy:
+  allow_implicit_invocation: true
